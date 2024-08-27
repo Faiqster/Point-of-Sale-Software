@@ -28,7 +28,7 @@ Watch the demo video on YouTube: [Point of Sale System Demo](https://www.youtube
 ## Installation
 
 **Clone the repository**:
-   git clone https://github.com/yourusername/pos-system.git
+   git clone https://github.com/Faiqster/Point-of-Sale-Software.git
 
 **Navigate to the project directory**:
    cd pos-system
