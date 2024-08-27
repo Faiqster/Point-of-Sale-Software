@@ -1,0 +1,6 @@
+***************FIR***************
+Cashier Name: 
+Subtotal: $0.0
+Tax: $ 0.0
+Total: $42.0
+****ThankYou for Shopping****
